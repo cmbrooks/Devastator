@@ -1,0 +1,11 @@
+One of my biggest areas of interest is in programming microcontrollers for
+embedded systems. Devastator is a robotics kit that I use to develop my
+microcontroller skills. I am currently using the ROMEO BLE microcontroller
+from DFRobot. The ROMEO is based on the Arduino Uno (Atmega 328p) with some
+added peripherals that are designed specifically for robotics.
+
+Using experience from CprE 288 (Embedded Systems 1) at Iowa State, I have
+written the code to control the robot using AVR C, reading the Atmega 328p
+datasheet and AVR C manuals to adapt my current knowledge of ARM
+microcontrollers to this new platform. So far, I have explored basic GPIO,
+Timers and Pulse with Modulation (PWM) to control the robot's motors.
